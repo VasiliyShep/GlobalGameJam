@@ -7,7 +7,7 @@ public class ExitButton : MonoBehaviour
 {
     public void Menu()
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene("Menu");
     }
 
     public void Exitgame()
